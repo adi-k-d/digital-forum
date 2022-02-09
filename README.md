@@ -1,14 +1,6 @@
 # GraphCMS Headless Blog
-### [Live Site](https://nextjs-plum-five-51.vercel.app/)
+### [Live Site](https://digital-forum-virid.vercel.app/)
 
-![GraphCMS Headless Blog](https://i.ibb.co/NmnJnKD/image.png)
+![Digital Forum](![image](https://user-images.githubusercontent.com/74538861/153139365-fadc5d6c-3a83-4926-b7a4-0cb0abdf2070.png)
+)
 
-## Stay up to date with new projects
-New major projects coming soon, subscribe to the mailing list to stay up to date https://resource.jsmasterypro.com/newsletter
-
-## Introduction
-This is a code repository for the corresponding video tutorial. 
-
-With featured and recent posts, categories. full markdown articles, author information, comments, and much more, this fully responsive CMS Blog App is the best Blog Application that you can currently find on YouTube. And what's best of all is that you and your clients can manage the blog from a dedicated Content Management System.
-
-You'll also learn how to work with GraphCMS. GraphCMS is a headless content management system based on GraphQL technology enabling seamless integration with any application.
